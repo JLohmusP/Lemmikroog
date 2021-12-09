@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Rajdhani:wght@300&display=swap');
+
+body{
+    background-color: aliceblue;
+    color: chocolate;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.pealkiri{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.link-retsept{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.pilt{
+    text-align: center;
+    margin: 15px auto;
+}
+
+.pilt1{
+    border-radius: 8px;
+}
+
+.ingredients{
+    width: 55%;
+    margin: 0 auto;
+}
+
+.ingredients-table{
+    margin: 10px auto;
+}
+
+.osa{
+    text-align: center;
+}
+
+.tühi{
+    height: 15px;
+}
+
+.kogus{
+    text-align: center;
+}
+
+.instructions{
+    width: 55%;
+    margin: 10px auto;
+}
+
+.instructions ol{
+    width: 75%;
+    margin: 15px auto;
+}
+
+.instructions li{
+    margin: 5px;
+}
+
+footer{
+    text-align: center;
+}
